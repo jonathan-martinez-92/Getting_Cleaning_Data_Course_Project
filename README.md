@@ -1,4 +1,5 @@
 # Getting_Cleaning_Data_Course_Project
+
 Course Project - Getting and Cleaning Data
 
 This is the course project for the Getting and Cleaning Data Coursera course.
